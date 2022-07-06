@@ -1,2 +1,1 @@
-# site
-Test site
+# astrulabi.github.io
