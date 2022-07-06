@@ -1,7 +1,7 @@
 site: astrulabi.github.io
 
 url: https://astrulabi.github.io
-baseurl: 
+baseurl: site
 
 collections:
   pages:
