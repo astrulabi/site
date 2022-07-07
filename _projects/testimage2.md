@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '"\images\demo\Galaxy_cluster_Abell_1689_pillars.jpg"'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](\images\demo\Galaxy_cluster_Abell_1689_pillars.jpg)
 
 ## Demo content
 
