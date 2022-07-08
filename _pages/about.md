@@ -1,12 +1,14 @@
 ---
 title: About the James Webb Space Telescope
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
+subtitle: The James Webb Space Telescope is an extremely versatile and powerful optical instrument that records the details of the universe on a scale that was, until now, undreamt of.
 description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
+![](/images/demo/demo-landscape-2.jpg)
+^testing to see if image is displayed   
 
 ## Get Duet
 
