@@ -1,12 +1,12 @@
 ---
-title: 'Test Image 1'
-subtitle: 'Awesome image captured by JWST'
+title1: 'Test Image 1'
+subtitle1: 'Awesome image captured by JWST'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+description1: This page is a demo that shows everything you can do inside portfolio and blog posts.
+featured_image1: '/images/demo/demo-square.jpg'
+<img src="51760502785_8ccbbedb0d_o.jpg" alt="JWST image">
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
