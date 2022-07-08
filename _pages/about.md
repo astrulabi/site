@@ -6,13 +6,11 @@ subtitle: The James Webb Space Telescope is an extremely versatile and powerful 
 subtitle: The James Webb Space Telescope is an extremely versatile and powerful optical instruement that is used to observe and record the universe on a scale that was, until now, undreamt of.
 >>>>>>> Stashed changes
 description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/demo/demo-51760502785_8ccbbedb0d_o.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/demo-51760502785_8ccbbedb0d_o.jpg)
 
-![](/images/demo/demo-landscape-2.jpg)
-^testing to see if image is displayed   
 
 ## Get Duet
 
