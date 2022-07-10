@@ -6,6 +6,7 @@ description1: This page is a demo that shows everything you can do inside portfo
 featured_image1: '/images/demo/demo-square.jpg'
 ---
 
+![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
