@@ -7,3 +7,4 @@ featured_image: '/images/Webb-images/STScI-01G7NCYE040TD50H3BPMP4FRS6.png'
 ---
 
 ![StephansQuintet](/images/Webb-images/stephansquintet.jpg)
+
