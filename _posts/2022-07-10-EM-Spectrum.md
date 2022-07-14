@@ -1,6 +1,6 @@
 ---
 title: 'The Electromagnetic Spectrum'
-date: 2022-07-30 21:50:00
+date: 2022-07-10 21:50:00
 description: This post is about the Electromagnetic Spectrum
 featured_image: '/images/demo/demo-square.jpg'
 ---
