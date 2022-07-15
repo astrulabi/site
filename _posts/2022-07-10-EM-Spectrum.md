@@ -2,13 +2,11 @@
 title: 'The Electromagnetic Spectrum'
 date: 2022-07-10 21:50:00
 description: This post is about the Electromagnetic Spectrum
-featured_image: 'images/EM-spectrum/STScI-01FEE2TEFK312K09R9TMWJ39E6.jpg'
+featured_image: '/images/EM-spectrum/STScI-01F8Q8WSHCNH23PHBS6JGXN42P.png'
 ---
+# The Electromagnetic Spectrum
 
-![](/site/images/EM-spectrum/STScI-01FEE2TEFK312K09R9TMWJ39E6.jpg)
+The light that is captured by the unaided human eye is a sliver of the many variations of light frequencies that exist in the electromagnetic spectrum. Longer frequencies carry less energy, whereas 
 
-## Demo content
+![](/site/images/EM-spectrum/STScI-01F8Q8WSHCNH23PHBS6JGXN42P.png)
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
