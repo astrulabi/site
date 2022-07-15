@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-	background-image: url(images/Webb-images/STScI-01G7NCYE040TD50H3BPMP4FRS6.png);
+	background: $background;
 	font-family: $body-font;
 	font-weight: $regular-weight;
 	font-style: normal;
