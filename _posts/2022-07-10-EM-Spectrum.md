@@ -2,10 +2,10 @@
 title: 'The Electromagnetic Spectrum'
 date: 2022-07-10 21:50:00
 description: This post is about the Electromagnetic Spectrum
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: 'images/EM-spectrum/STScI-01FEE2TEFK312K09R9TMWJ39E6.jpg'
 ---
 
-![](/images/EM-spectrum/51760502785_8ccbbedb0d_o.jpg)
+![](/site/images/STScI-01FEE2TEFK312K09R9TMWJ39E6.jpg)
 
 ## Demo content
 
