@@ -11,6 +11,7 @@ The light that is captured by the unaided human eye is a sliver of the many vari
 
 [Source](https://webbtelescope.org/contents/media/images/01F8GF4P4S9TQPQHE15MAG23ZG?Type=Infographics&page=2&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97)
 
+
 The various frequencies of light have different properties. Infrared, Microwave, and radio waves have longer wavelengths which are more likely to pass through things like the atmosphere, walls, and most other matter.  
 
 [More Information](https://webbtelescope.org/contents/media/images/01F8GF6NH5PTXGBVNVHR2TSQRB?Tag=Astronomy%20Basics)
