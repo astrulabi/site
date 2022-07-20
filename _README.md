@@ -28,7 +28,6 @@ Duet comes packed with lots of options to let you customize the theme.
 ### The `_config.yml` file
 
 The main things you might need to change here are:
-
 `site: Duet Jekyll Theme` – change this to your website's name
 
 `url:` – the full URL that your site will be hosted at, e.g. https://your-domain.com

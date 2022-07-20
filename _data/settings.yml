@@ -8,19 +8,20 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Images'
       url: '/'
-    - title: 'Blog'
+    - title: 'How It Works'
       url: '/blog/'
     - title: 'About JWST'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
+
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: Images of the extents of the cosmos provided by NASA's James Webb Space Telescope
 
 grid_settings:
   overlay_opacity: 0.8
@@ -66,9 +67,9 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  accent_color: '#f2e44b'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
+  overlay_background_color: '#f2e44b'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
