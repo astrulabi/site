@@ -17,6 +17,7 @@ menu_settings:
     - title: 'Contact'
       url: '/contact'
 
+
 footer_settings:
   logo_image: 
   logo_width: 200
