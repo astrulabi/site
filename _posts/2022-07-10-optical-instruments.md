@@ -1,7 +1,7 @@
 ---
 title: 'Optical Instruments'
-date: 2022-07-10 21:50:00
+date: 2022-07-18 21:50:00
 description: This post is about the Electromagnetic Spectrum
 featured_image: '/images/EM-spectrum/STScI-01FEBR8SCWTRV07XV8WE8A9AQB.jpg'
 ---
-[Infographic](/site/images/EM-spectrum/STScI-01FEBR8SCWTRV07XV8WE8A9AQB.jpg)
+![Infographic](/site/images/EM-spectrum/STScI-01FEBR8SCWTRV07XV8WE8A9AQB.jpg)
