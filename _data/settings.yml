@@ -14,8 +14,7 @@ menu_settings:
       url: '/blog/'
     - title: 'About JWST'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+
 
 
 footer_settings:
