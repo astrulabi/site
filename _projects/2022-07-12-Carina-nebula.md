@@ -8,4 +8,4 @@ featured_image: '/images/Webb-images/carina-nebula.png'
 
 ![StephansQuintet](/site/images/Webb-images/carina-nebula.png)
 
-[Source](https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A)
+[Source](https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ)
