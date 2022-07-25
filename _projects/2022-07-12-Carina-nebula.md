@@ -1,6 +1,6 @@
 ---
-title: 'Stephans Quintet'
-subtitle: 'NIRCam and MIRI Composite Images'
+title: 'Carina Nebula'
+subtitle: 'NIRCam Image'
 date: 2018-06-30 00:00:00
 description: filler
 featured_image: '/images/Webb-images/carina-nebula.png'
