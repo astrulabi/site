@@ -9,8 +9,8 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	position: sticky
 	margin-top: 40px;
+
 	@include mq(tabletp) {
 		margin-top: 50px;
 	}
