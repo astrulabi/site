@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-	background: url(site/images/Webb-images/carina-nebula.png("carina-nebula.png"));
+	background: $background-color url("/site/images/Webb-images/carina-nebula.png") no-repeat fixed center;
 	font-family: $body-font;
 	font-weight: $regular-weight;
 	font-style: normal;
