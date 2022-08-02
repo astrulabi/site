@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-	background: url("/images/STScI-01G8H1NK4W8CJYHF2DDFD1W0DQ.png") no-repeat fixed center; 
+	background: $background-color; 
 	font-family: $body-font;
 	font-weight: $regular-weight;
 	font-style: normal;
