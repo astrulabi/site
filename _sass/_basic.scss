@@ -7,13 +7,12 @@
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
 
-
 html, body {
 	height: 100%;
 }
 
 body {
-  background: background-color url("/site/images/images/Webb-images/carina-nebula.png");
+	background: $background-color;
 	font-family: $body-font;
 	font-weight: $regular-weight;
 	font-style: normal;
